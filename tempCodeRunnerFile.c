@@ -1,1 +1,0 @@
-puts(strcat(string1,string2));
