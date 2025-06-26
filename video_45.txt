@@ -1,0 +1,3 @@
+hello guys my name is aditya.
+this just a random text file to learn file operations in c.
+Hello writing in a file.
