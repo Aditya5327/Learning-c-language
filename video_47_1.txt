@@ -1,0 +1,3 @@
+Thanks {{name}} for purchasing {{item}} from {{outlet}}.
+Please visit {{outlet}} for any kind of problem.
+We plan to serve you again you again.
